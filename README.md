@@ -1,4 +1,4 @@
-# CODESOF02
+# CODSOFT02
 # To-Do List Program
 
 tasks = []
